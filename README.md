@@ -12,7 +12,7 @@ The purpose of this study is to demonstrate simple data import, exploratory data
 The code is contained in the 'survey.ipynb' file and is intended to by run in JupyterLab environment. The code includes all activities from data import, through EDA, data transformation, cleaning and analysis. The code also includes observations and conclusions as markdown blocks in the notebook file. Please note that executing the code will generate files in this directory. These files are intended for off-line analysis and viewing at certain points in the code. 
 
 ### Input Files (Raw Data)
-The raw data files used in this analysis are included, and must be located in the same directory as the code above. 
+The raw data files used in this analysis are included and must be located in the same directory as the code above. 
 * Non-Majors Survey Results - Fall 2020.csv
 * Non-Majors Survey Results - Fall 2021.csv
 * Non-Majors Survey Results - Fall 2022.csv
