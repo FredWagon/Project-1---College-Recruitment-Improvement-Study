@@ -1,5 +1,5 @@
 # Project 1 - College Recruitment Improvement Study  
- The Computer Science department at the County College of Morris (CCM) runs surveys at the end of a semester for students taking CMP that are NOT enrolled in a CMP major. The results of these surveys are used for recruitment initiatives.  
+ The Information Technologies department at the County College of Morris (CCM) runs surveys at the end of a semester for students taking CMP that are NOT enrolled in a CMP major. The results of these surveys are used for recruitment initiatives.  
 
 ### Purpose  
 The purpose of this study is to demonstrate simple data import, exploratory data analysis (EDA), data transformation, data cleaning and data analysis using Python and Jupyter Notebooks. We will answer 4 basic questions because of this study:  
