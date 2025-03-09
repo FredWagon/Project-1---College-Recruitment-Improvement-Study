@@ -30,8 +30,8 @@ The 'pt15 - survey(transformed, consolidated, cleansed).csv' file is the final v
 The cleansing operations looked specifically at those fields to make any data corrections. Performing analysis on any other fields in the dataset will require EDA and cleansing specifically focused on those fields. See the markdown fields in the 'survey.ipynb' code for details and rationale of the transformation, consolidation and cleansing operations.  
 
 ### Analysis Results  
-Results of the analysis are contained in the markdown cells of the 'survey.ipynb' file:
-* Part 15: Exploratory Data Analysis - Finalize after transforming, consolidating and data cleansing  
+Results of the analysis are contained in the 'conclusion' markdown cells at the end of each part in the 'survey.ipynb' file:
 * Part 16: Data Analysis - What are the changes over time (2020-24) in age demographics?  
 * Part 17: Data Analysis - What non-CMP degree/programs have the highest occurrences of respondents taking a Computer Literacy Course? Conversely, what are the least? 
-* Part 18: Data Analysis - What are the most effective information sources for non-CMP respondents seeking additional Computer Science courses? Conversely, what are the least?  
+* Part 18: Data Analysis - What are the most effective information sources for non-CMP respondents seeking additional Computer Science courses? Conversely, what are the least?
+* Part 19: Data Analysis - What interests are survey respondents seeking the most? Conversely, what are the least?
